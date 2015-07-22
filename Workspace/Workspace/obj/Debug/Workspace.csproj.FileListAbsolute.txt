@@ -1,1 +1,10 @@
 C:\Users\polakowd\Documents\Visual Studio 2012\Projects\Workspace\Workspace\bin\Debug\Workspace.exe.config
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\bin\Debug\Workspace.exe.config
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\bin\Debug\Workspace.exe
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\bin\Debug\Workspace.pdb
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\obj\Debug\Workspace.csprojResolveAssemblyReference.cache
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\obj\Debug\Workspace.Form1.resources
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\obj\Debug\Workspace.Properties.Resources.resources
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\obj\Debug\Workspace.csproj.GenerateResource.Cache
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\obj\Debug\Workspace.exe
+C:\Users\polakowd\Documents\GitHub\Workspace\Workspace\Workspace\obj\Debug\Workspace.pdb
